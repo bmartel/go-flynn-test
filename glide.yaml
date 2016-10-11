@@ -1,0 +1,3 @@
+package: github.com/bmartel/testapp1
+import:
+- package: github.com/gin-gonic/gin
